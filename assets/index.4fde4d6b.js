@@ -106,7 +106,7 @@ Error generating stack: `+l.message+`
     filter: opacity(0.8);
   }
 `;function Im(){return G(Lm,{children:[G(La,{textColor:"#BEBEBE",fontSize:1.6,fontWeight:400,textWidth:47,children:["Site criado com a proposta de concluir a atividade de mat\xE9matica sobre o estudo da reta.",E("br",{}),"Atividade avaliativa desenvolvida no IFPR - Campus Assis Chateaubriand."]}),E(Om,{}),G("div",{children:[E(La,{textColor:"#BEBEBE",fontSize:1.6,fontWeight:400,children:"Contato"}),G(Oa,{href:"https://www.instagram.com/ricardorhvv/",target:"_blank",children:[E("i",{className:"fa-brands fa-instagram"}),"@ricardorhvv"]}),G(Oa,{href:"https://github.com/ricardorhv",target:"_blank",children:[E("i",{className:"fa-brands fa-github"}),"ricardorhv"]})]})]})}const Dm=ot.div`
-  background: no-repeat url('../../../img/background.png'); 
+  background: no-repeat url('../img/background.png'); 
   background-size: cover;
 
   width: 100vw;
