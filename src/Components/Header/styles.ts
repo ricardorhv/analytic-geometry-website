@@ -13,7 +13,7 @@ interface LineProps {
 }
 
 export const Container = styled.div`
-  background: no-repeat url('../img/background.png'); 
+  background: no-repeat url('./img/background.png'); 
   background-size: cover;
 
   width: 100vw;

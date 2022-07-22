@@ -25,7 +25,7 @@ export default function Content() {
             <br/>
             dab = √(xb - xa)² + (yb - ya)²               
           </Text>
-          <img src="../../img/pontos.png" alt="" />
+          <img src="./img/pontos.png" alt="" />
         </Wrapper>
       </Container>
 
@@ -52,7 +52,7 @@ export default function Content() {
         </Text>
 
         <Container>
-          <img src="../../img/condicao.png" alt="" />
+          <img src="./img/condicao.png" alt="" />
         </Container>
         
         <Text textColor="#000" fontSize={1.1} fontWeight={300}>
@@ -91,7 +91,7 @@ export default function Content() {
         </Text>
 
         <Wrapper gapNumber={2}>
-          <img src="../../img/exemplo1.jpeg" width="283" />
+          <img src="./img/exemplo1.jpeg" width="283" />
           <div>
             <Text textColor="#000" fontSize={1.1} fontWeight={300}>
               Para resolver esse exercício foi necessário isolar o y para descobrir o coeficiente angular, ou seja, o valor que acompanha o x.
@@ -135,7 +135,7 @@ export default function Content() {
         </Text>
 
         <Wrapper gapNumber={2}>
-          <img src="../../img/exemplo2.jpeg" width={283}/>
+          <img src="./img/exemplo2.jpeg" width={283}/>
           <div>
             <Text textColor="#000" fontSize={1.1} fontWeight={300}>
               O exercício pedia pela equação da reta, ou seja, equação geral da reta que no caso é: ax + by + c = 0

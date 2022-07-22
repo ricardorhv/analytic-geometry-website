@@ -21,7 +21,7 @@ export default function Header() {
           </Text>
         </Box>
       </div>
-      <img src="../../../public/img/vetor.svg"/>
+      <img src="./img/vetor.svg"/>
       <Button href='#content'>
         <i className="fa-solid fa-arrow-down"></i>
       </Button>
