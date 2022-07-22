@@ -166,7 +166,7 @@ Error generating stack: `+l.message+`
     font-size: 2.5rem;
     text-shadow: 0px 0px 10px rgba(0, 0, 0, .4);
   }
-`;function Fm(){return G(Dm,{children:[G("div",{children:[E(si,{textColor:"#fff",fontSize:4,fontWeight:400,shadow:!0,children:"Geometria Anal\xEDtica"}),E(si,{textColor:"#BEBEBE",fontSize:1.2,fontWeight:300,shadow:!1,textWidth:42.5,children:"Geometria anal\xEDtica \xE9 um campo da matem\xE1tica em que \xE9 poss\xEDvel representar elementos geom\xE9tricos, como pontos, retas, tri\xE2ngulos, quadril\xE1teros e circunfer\xEAncias, utilizando express\xF5es alg\xE9bricas."}),E(jm,{children:G(si,{textColor:"#2100EA",fontSize:4,fontWeight:400,shadow:!0,children:[E(Ia,{bottom:"80%"}),"Estudo da Reta",E(Ia,{bottom:"15px"})]})})]}),E("img",{src:"../../img/vetor.svg"}),E(Mm,{href:"#content",children:E("i",{className:"fa-solid fa-arrow-down"})})]})}const Um=_m`
+`;function Fm(){return G(Dm,{children:[G("div",{children:[E(si,{textColor:"#fff",fontSize:4,fontWeight:400,shadow:!0,children:"Geometria Anal\xEDtica"}),E(si,{textColor:"#BEBEBE",fontSize:1.2,fontWeight:300,shadow:!1,textWidth:42.5,children:"Geometria anal\xEDtica \xE9 um campo da matem\xE1tica em que \xE9 poss\xEDvel representar elementos geom\xE9tricos, como pontos, retas, tri\xE2ngulos, quadril\xE1teros e circunfer\xEAncias, utilizando express\xF5es alg\xE9bricas."}),E(jm,{children:G(si,{textColor:"#2100EA",fontSize:4,fontWeight:400,shadow:!0,children:[E(Ia,{bottom:"80%"}),"Estudo da Reta",E(Ia,{bottom:"15px"})]})})]}),E("img",{src:"../../../public/img/vetor.svg"}),E(Mm,{href:"#content",children:E("i",{className:"fa-solid fa-arrow-down"})})]})}const Um=_m`
   html {
     scroll-behavior: smooth;
   }
